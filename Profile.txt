@@ -1,0 +1,1 @@
+release: yes "yes" | python manage.py migrate
